@@ -1,0 +1,14 @@
+/*
+Theme Name:     Bird
+Description:    a bird flying on the page
+Author:         nguy0003
+Template:       twentytwentytwo
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+header a, content a{
+
+    color: #ffffff;
+
+}

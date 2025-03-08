@@ -1,0 +1,38 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/kobe-bryant-is-the-best-nba-player/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/landmark-81-is-the-tallest-building-in-vietnam/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/nguy0003/
+        </loc>
+    </url>
+</urlset>
